@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omoh-ship
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C, Python, Flask, Javascript
+- 👀 I’m interested in C, Python, Flask, and UI
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me isedugloria@gmail.com
 
