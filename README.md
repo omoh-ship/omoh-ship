@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omoh-ship
-- 👀 I’m interested in C, Python, Flask, and UI
+- 👀 I’m interested in Python for computer vision and machine learning
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me isedugloria@gmail.com
 
 <!---
